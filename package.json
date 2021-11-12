@@ -23,6 +23,11 @@
   },
   "homepage": "https://github.com/yperdoom/nodejs-monitorLogico#readme",
   "dependencies": {
-    "nodemon": "^2.0.14"
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.3-rc.0",
+    "nodemon": "^2.0.14",
+    "sequelize": "^6.9.0",
+    "serialport": "^9.2.5"
   }
 }
